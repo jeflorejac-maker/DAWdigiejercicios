@@ -39,3 +39,20 @@ Respuesta: I
 5 Una app de gestión de proyectos añade recomendaciones personalizadas con IA para cada equipo.
 
 Respuesta: T 
+
+EC1.4 Lectura de un caso: SoftDev SL (m)
+
+1. ¿Qué elementos del caso corresponden a informatización y cuáles a
+digitalización?
+
+Informatización: Hacer presupuestos en Excel y mandar facturas en PDF por correo (usar herramientas digitales sueltas para hacer lo mismo de siempre).
+Digitalización: Implantar el ERP en la nube y el portal de cliente (conectar, centralizar y automatizar los procesos).
+
+2. ¿Hay rastro de transformación digital? Justifica la respuesta.
+
+Sí (incipiente): Cambia la relación con el cliente pasándola a un modelo de autoservicio 24/7 y aporta más valor, aunque la empresa aún no ha cambiado su modelo de negocio central.
+
+3. ¿Por qué el portal de cliente es un buen ejemplo de digitalización de
+producto/servicio y no solo de proceso?
+
+Porque no es solo para gestión interna; forma parte de lo que recibe el cliente.
