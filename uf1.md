@@ -56,3 +56,27 @@ Sí (incipiente): Cambia la relación con el cliente pasándola a un modelo de a
 producto/servicio y no solo de proceso?
 
 Porque no es solo para gestión interna; forma parte de lo que recibe el cliente.
+
+EC1.5 Por qué importa ahora (m)
+
+El tema explica tres fuerzas que han convergido y han hecho de la digitalización un
+factor estratégico. Resúmelas en una tabla y, para cada una, pon un ejemplo concreto
+del sector TIC que no esté en el texto.
+
+1. Evolución tecnológica
+
+Resumen: El avance y abaratamiento de la nube, la IA o el IoT permiten crear soluciones digitales avanzadas.
+
+Ejemplo TIC: Integrar IA en tiempo real en un antivirus para detectar ciberamenazas automáticamente.
+
+2. Expectativas del cliente
+
+Resumen: Los usuarios exigen servicios totalmente digitales, inmediatos, personalizados y disponibles 24/7.
+
+Ejemplo TIC: Un asistente virtual de un operador de fibra para resolver averías del router al instante.
+
+3. Presión económica
+
+Resumen: La necesidad de reducir costes y ser más competitivos obliga a optimizar procesos con datos.
+
+Ejemplo TIC: Un data center que usa algoritmos de optimización para reducir el gasto eléctrico de sus servidores.
