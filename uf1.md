@@ -80,3 +80,7 @@ Ejemplo TIC: Un asistente virtual de un operador de fibra para resolver averías
 Resumen: La necesidad de reducir costes y ser más competitivos obliga a optimizar procesos con datos.
 
 Ejemplo TIC: Un data center que usa algoritmos de optimización para reducir el gasto eléctrico de sus servidores.
+
+EC1.6 Una empresa, dos momentos (r)
+
+El Momento B representa una digitalización avanzada, ya que optimiza, automatiza y conecta procesos existentes (ERP, CRM, Scrum, analítica) mediante herramientas digitales. Ninguno de los dos momentos supone por sí solo una transformación digital, pues la empresa sigue manteniendo exactamente el mismo modelo de negocio básico (desarrollo web por encargo) sin crear nuevas vías de ingresos digitales ni cambiar disruptivamente la propuesta de valor.
